@@ -1,6 +1,4 @@
 <?php 
-	echo "This is my first file";
-
 	$a = 0;
 	while ($a < 3)
 	{
